@@ -1,0 +1,89 @@
+ @import "../../../../../static/css/common.css";
+ h3{
+ 	background: #f3fafe;
+ 	color: #266aae;
+ 	font-size: 14px;
+ 	height: 20px;
+ 	line-height: 20px;
+ 	padding: 5px;
+ 	border-bottom: solid 1px #d3d3d3;
+
+ }
+ dl{
+
+ 	border: solid 1px #d3d3d3;
+ 	padding: 6px;
+ 	height: auto;
+ 	overflow: hidden;
+ 	
+ }
+ dt{
+ 	 color: #404040;
+ 	 display: block;
+ 	 float: left;
+ 	 line-height: 20px;
+ 	 padding: 0px 8px;
+ 	 text-align: left;
+ 	 width: 100px;
+
+ }
+
+ dd{
+ 		
+ 		 display: block;
+ 	     float: left;
+ 	     line-height: 20px;
+ 	     padding: 0px 8px;
+ 	      width: 80%;
+ 	    
+ }
+ dd ul li{
+ 	     display: block;
+ 	     float: left;
+ 	     line-height: 20px;
+ 	     padding: 0px 8px;
+ 	     width: 80px;
+ }
+ dd label{
+
+ 	       display: block;
+ 	       float: left;
+ 	       line-height: 20px;
+ 	       padding: 0px 8px;
+ 	       width: auto;
+ 	    
+ }
+  dd label input{
+  	             padding: 5px;
+  }
+
+/*内容页图片列表编辑时使用*/
+div.pics ul li{
+    float:left;
+    margin:6px;
+    border:solid 1px #dcdcdc;
+    padding:3px;
+    position: relative;
+}
+div.pics ul li span{
+    position: absolute;
+    right:5px;
+    top:5px;
+    display: block;
+    width:20px;
+    height:20px;
+    background: #999;
+    color:#fff;
+    text-align: center;
+    line-height: 20px;
+    font-size:16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+div.pics ul li span a{
+	  color:#fff;
+}
+div.pics ul li span a:hover{
+	  color:#f00;
+}
+

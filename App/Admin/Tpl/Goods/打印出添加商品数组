@@ -1,0 +1,78 @@
+Array
+(
+    [gname] => qkpp男士T恤长袖
+    [price] => 45
+    [stock] => Array
+        (
+            [sp_5434] => Array
+                (
+                    [av_id] => Array
+                        (
+                            [54] => 白色 
+                            [34] => XL 
+                        )
+
+                    [stock_st_id] => 
+                    [price] => 45
+                    [stock] => 300
+                    [goods_sn] => 001
+                )
+
+            [sp_5334] => Array
+                (
+                    [av_id] => Array
+                        (
+                            [53] => 黑色 
+                            [34] => XL 
+                        )
+
+                    [stock_st_id] => 
+                    [price] => 45
+                    [stock] => 44
+                    [goods_sn] => 001
+                )
+
+            [sp_5433] => Array
+                (
+                    [av_id] => Array
+                        (
+                            [54] => 白色 
+                            [33] => L 
+                        )
+
+                    [stock_st_id] => 
+                    [price] => 45
+                    [stock] => 44
+                    [goods_sn] => 001
+                )
+
+            [sp_5333] => Array
+                (
+                    [av_id] => Array
+                        (
+                            [53] => 黑色 
+                            [33] => L 
+                        )
+
+                    [stock_st_id] => 
+                    [price] => 45
+                    [stock] => 44
+                    [goods_sn] => 001
+                )
+
+        )
+
+    [cid] => 12
+    [goods_attr] => Array
+        (
+            [58] => 欧美风格
+            [27] => 中年
+            [76] => 冬
+        )
+
+    [pic] => 
+    [flag] => 1,2
+    [description] => 
+    [click] => 100
+    [addtime] => 1390888446
+)

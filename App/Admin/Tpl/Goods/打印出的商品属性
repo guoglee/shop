@@ -1,0 +1,202 @@
+<pre>Array
+(
+    [attr] => Array
+        (
+            [0] => Array
+                (
+                    [ac_id] => 16
+                    [attr_name] => 风格
+                    [show_type] => 2
+                    [is_spec] => 2
+                    [goods_type_gt_id] => 5
+                    [attr_value] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [av_id] => 58
+                                    [attr_value] => 欧美风格
+                                    [attr_class_ac_id] => 16
+                                )
+
+                            [1] => Array
+                                (
+                                    [av_id] => 57
+                                    [attr_value] => 韩版修身
+                                    [attr_class_ac_id] => 16
+                                )
+
+                            [2] => Array
+                                (
+                                    [av_id] => 59
+                                    [attr_value] => 时尚休闲
+                                    [attr_class_ac_id] => 16
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ac_id] => 17
+                    [attr_name] => 适用人群
+                    [show_type] => 2
+                    [is_spec] => 2
+                    [goods_type_gt_id] => 5
+                    [attr_value] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [av_id] => 28
+                                    [attr_value] => 老年
+                                    [attr_class_ac_id] => 17
+                                )
+
+                            [1] => Array
+                                (
+                                    [av_id] => 27
+                                    [attr_value] => 中年
+                                    [attr_class_ac_id] => 17
+                                )
+
+                            [2] => Array
+                                (
+                                    [av_id] => 26
+                                    [attr_value] => 青年
+                                    [attr_class_ac_id] => 17
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [ac_id] => 30
+                    [attr_name] => 季节
+                    [show_type] => 2
+                    [is_spec] => 2
+                    [goods_type_gt_id] => 5
+                    [attr_value] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [av_id] => 78
+                                    [attr_value] => 夏
+                                    [attr_class_ac_id] => 30
+                                )
+
+                            [1] => Array
+                                (
+                                    [av_id] => 77
+                                    [attr_value] => 秋
+                                    [attr_class_ac_id] => 30
+                                )
+
+                            [2] => Array
+                                (
+                                    [av_id] => 76
+                                    [attr_value] => 冬
+                                    [attr_class_ac_id] => 30
+                                )
+
+                            [3] => Array
+                                (
+                                    [av_id] => 79
+                                    [attr_value] => 春
+                                    [attr_class_ac_id] => 30
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [spec] => Array
+        (
+            [0] => Array
+                (
+                    [ac_id] => 18
+                    [attr_name] => 颜色
+                    [show_type] => 2
+                    [is_spec] => 1
+                    [goods_type_gt_id] => 5
+                    [attr_value] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [av_id] => 54
+                                    [attr_value] => 白色
+                                    [attr_class_ac_id] => 18
+                                )
+
+                            [1] => Array
+                                (
+                                    [av_id] => 53
+                                    [attr_value] => 黑色
+                                    [attr_class_ac_id] => 18
+                                )
+
+                            [2] => Array
+                                (
+                                    [av_id] => 52
+                                    [attr_value] => 黄色
+                                    [attr_class_ac_id] => 18
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [ac_id] => 19
+                    [attr_name] => 尺码
+                    [show_type] => 2
+                    [is_spec] => 1
+                    [goods_type_gt_id] => 5
+                    [attr_value] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [av_id] => 34
+                                    [attr_value] => XL
+                                    [attr_class_ac_id] => 19
+                                )
+
+                            [1] => Array
+                                (
+                                    [av_id] => 33
+                                    [attr_value] => L
+                                    [attr_class_ac_id] => 19
+                                )
+
+                            [2] => Array
+                                (
+                                    [av_id] => 32
+                                    [attr_value] => M
+                                    [attr_class_ac_id] => 19
+                                )
+
+                            [3] => Array
+                                (
+                                    [av_id] => 35
+                                    [attr_value] => XXL
+                                    [attr_class_ac_id] => 19
+                                )
+
+                            [4] => Array
+                                (
+                                    [av_id] => 39
+                                    [attr_value] => 3XL
+                                    [attr_class_ac_id] => 19
+                                )
+
+                        )
+
+                )
+
+        )
+
+) 

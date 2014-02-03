@@ -1,0 +1,5 @@
+ @import "../../../../../static/css/common.css";
+ div#brand ul li img{
+  width: 100px;
+  cursor: pointer;
+ }
